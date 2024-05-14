@@ -26,6 +26,7 @@ You will hear back within 48 hours from us via email.
 2. Clone the forked repository and proceed with steps mentioned below.
 
 ### Install requirements
+
 * Install Nx using the [Nx Documentation](https://nx.dev)
 * Install `nvm` for linux or mac from this [url](https://github.com/creationix/nvm#installation-and-update)
 * Install `nvm` for windows from this [url](https://github.com/coreybutler/nvm-windows/releases)
